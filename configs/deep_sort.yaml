@@ -1,0 +1,10 @@
+DEEPSORT:
+  REID_CKPT: "/content/drive/MyDrive/yolov8/deep_sort_pytorch/deep_sort/deep/checkpoint/ckpt.t7"
+  MAX_DIST: 0.9
+  MIN_CONFIDENCE: 0.8
+  NMS_MAX_OVERLAP: 0.9
+  MAX_IOU_DISTANCE: 0.9
+  MAX_AGE: 25
+  N_INIT: 3
+  NN_BUDGET: 100
+  
